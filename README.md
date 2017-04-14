@@ -1,14 +1,14 @@
-# HTML rearranger
-
-- Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, 1 JS file**
-
+---
+summary: 'Use Javascript & jQuery to manipulate an HTML file an rearrange the content.'
+time: '1 hour'
+deliverables: '1 HTML file, 1 JS file'
 ---
 
-**Use Javascript & jQuery to manipulate an HTML file an rearrange the content.**
+# HTML rearranger
+
+## Overview
 
 - *Fork this repository.*
-- **DO NOT change the HTML.**
 - Use Javascript & jQuery to perform the following manipulations to the HTML:
   1. Create a heading: “Below ground veggies”.
   2. Create a list to hold the below ground veggies.
@@ -18,6 +18,7 @@
   6. Loop over the veggies that exist in the HTML currently and add them to the appropriate list.
   7. Remove the veggies from the old list.
   8. Completely remove the original list.
+- **DO NOT change the `index.html` file’s code.**
 - *Run it through Markbot and make sure it passes all the checks.*
 
 ---
@@ -26,10 +27,10 @@
 
 Visually match the images in the “screenshots” folder.
 
-- [Final screenshots in the “screenshots” folder.](screenshots)
+- Final screenshots in the “screenshots” folder.
 
 ---
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit online.
